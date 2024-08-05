@@ -1,6 +1,6 @@
 ## Restrições de Uso
 
-Este repositório contém respostas a questionários da disciplina [Nome da Disciplina] que foram feitas por mim durante o meu curso de Ciência da Computação na UFAM.
+Este repositório contém atividades e trabalhos  da disciplina Organização de Computadores que foram feitas por mim durante o meu curso de Ciência da Computação na UFAM.
 
 ### Termos de Uso
 
